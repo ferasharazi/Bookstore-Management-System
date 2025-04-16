@@ -14,7 +14,7 @@ A simple Java-based **Object-Oriented Programming** project simulating an online
 
 ## 🧱 Project Structure
 - Package: `Store`
-- Contains 8 main classes:
+- Contains 8 classes:
   - `User` (Abstract class)
   - `Admin` & `Customer` (Inheritance + Polymorphism)
   - `Book`, `Inventory`, `Order` (Composition relationships)
