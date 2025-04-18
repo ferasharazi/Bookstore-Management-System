@@ -2,7 +2,7 @@
 
 A simple Java-based **Object-Oriented Programming** project simulating an online bookstore, where admins can manage books and customers can browse and place orders.
 
-## 🛠️ Features
+## Features
 - Admin login with capabilities to:
   - Add new books
   - Delete existing books
@@ -12,7 +12,7 @@ A simple Java-based **Object-Oriented Programming** project simulating an online
 - Menu navigation for both admin and customer roles
 - Book inventory and order tracking system
 
-## 🧱 Project Structure
+## Project Structure
 - Package: `Store`
 - Contains 8 classes:
   - `User` (Abstract class)
@@ -21,7 +21,7 @@ A simple Java-based **Object-Oriented Programming** project simulating an online
   - `Menu` (Navigation interface)
   - `BookStoreTest` (Main class)
 
-## 💡 Highlights
+## Highlights
 - Object-Oriented Concepts:
   - Inheritance
   - Polymorphism
